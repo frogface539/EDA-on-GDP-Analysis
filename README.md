@@ -1,4 +1,5 @@
-📊 Exploratory Data Analysis (EDA) with Plotly, Matplotlib & Pandas
+# 📊 Exploratory Data Analysis (EDA)
+
 This project performs Exploratory Data Analysis (EDA) on a dataset using Plotly, Matplotlib, and Pandas to uncover insights, trends, and patterns.
 
 📌 Features
